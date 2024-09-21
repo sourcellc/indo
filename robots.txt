@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap:  http://indolottery88.v8.js.cn/sitemap.xml
